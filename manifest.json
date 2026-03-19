@@ -1,11 +1,11 @@
 {
   "name": "Inuka Tech Profile",
   "short_name": "Inuka Tech",
+  "description": "Digital Business Card of Inuka Sanjula",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#030303",
   "theme_color": "#030303",
-  "description": "Digital Business Card for Inuka Sanjula",
   "icons": [
     {
       "src": "logo.jpg",
